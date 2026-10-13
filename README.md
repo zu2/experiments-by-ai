@@ -25,8 +25,8 @@ The main goal is to test and evaluate how well AI can understand and write code 
 
 ## サンプル画像
 
-![In-Game Screen](./screen-shot-3.png)
-![In Game](./screenshot-3.png)
+![Mahjong](./bmjr-color-mahjong-2players/screen-shot-3.png)
+![Sapce War](./bmjr-space-war/screenshot-3.png)
 
 ---
 
