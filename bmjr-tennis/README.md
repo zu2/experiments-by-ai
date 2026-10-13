@@ -5,16 +5,16 @@ An AI-generated Pong game for the Hitachi BASICMASTER series (Retro 8-bit PC).
 ## Screenshots
 
 ### Initial Screen & Startup
-![Startup](./screenshots/screenshot-1.png)
+![Startup](./screenshot-1.png)
 
 ### How to Play & Game Start
-![How to Play](./screenshots/screenshot-2.png)
+![How to Play](./screenshot-2.png)
 
 ### Game Screen
-![In Game](./screenshots/screenshot-3.png)
+![In Game](./screenshot-3.png)
 
 ### Game Over / Restart
-![Space Again](./screenshots/screenshot-4.png)
+![Space Again](./screenshot-4.png)
 
 ## How to Run
 
