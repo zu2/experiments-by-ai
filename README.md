@@ -23,6 +23,18 @@ The main goal is to test and evaluate how well AI can understand and write code 
 
 ---
 
+## サンプル画像
+
+![In-Game Screen](./screen-shot-3.png)
+![In Game](./screenshot-3.png)
+
+---
+
 ## Directory Structure / プロジェクト一覧
 
-Each directory contains an independent experiment.
+- [bmjr-block-break](./bmjr-block-break)
+- [bmjr-color-invaders](./bmjr-color-invaders)
+- [bmjr-color-mahjong-2players](./bmjr-color-mahjong-2players)
+- [bmjr-space-war](./bmjr-space-war)
+- [bmjr-tennis](./bmjr-tennis)
+
