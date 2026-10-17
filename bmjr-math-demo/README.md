@@ -5,13 +5,13 @@ An AI-generated mathematical curve and fractal demonstration program for the Hit
 ## Screenshots
 
 ### Initial Screen & Startup
-![Startup](./screenshots/screenshot-1.png)
+![Startup](./screenshot-1.png)
 
 ### Dragon Curve
-![Dragon Curve](./screenshots/screenshot-2.png)
+![Dragon Curve](./screenshot-2.png)
 
 ### Lévy C Curve
-![Lévy C Curve](./screenshots/screenshot-3.png)
+![Lévy C Curve](./screenshot-3.png)
 
 ## How to Run
 
