@@ -35,6 +35,6 @@ The main goal is to test and evaluate how well AI can understand and write code 
 - [bmjr-block-break](./bmjr-block-break)
 - [bmjr-color-invaders](./bmjr-color-invaders)
 - [bmjr-color-mahjong-2players](./bmjr-color-mahjong-2players)
+- [bmjr-math-demo](./bmjr-math-demo)
 - [bmjr-space-war](./bmjr-space-war)
 - [bmjr-tennis](./bmjr-tennis)
-
