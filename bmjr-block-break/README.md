@@ -15,7 +15,7 @@ An AI-generated Breakout game for the Hitachi BASICMASTER series (Retro 8-bit PC
 
 ## How to Run
 
-1. Load `block-break.mot` into your Hitachi BASICMASTER emulator.
+1. Load `block-break.mot` into your Hitachi BASICMASTER Jr. emulator.
 2. Type `CALL $4000` and press **Enter** to start the game.
 
 ## Controls

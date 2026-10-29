@@ -15,7 +15,7 @@ An AI-generated Space Invaders game for the Hitachi BASICMASTER series (Retro 8-
 
 ## How to Run
 
-1. Load `invaders.mot` into your Hitachi BASICMASTER emulator.
+1. Load `invaders.mot` into your Hitachi BASICMASTER Jr. emulator.
 2. Type `CALL $4000` and press **Enter** to start the game.
 
 ## Controls

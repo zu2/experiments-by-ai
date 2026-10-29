@@ -17,7 +17,7 @@ An AI-generated 2-player Mahjong game (Tonnan-sen / East-South game) for the Hit
 ![Win Screen](./screen-shot-4.png)
 
 ### How to Run
-1. Load `mj.mot` into your BASICMASTER emulator.
+1. Load `bmjr-mj.mot` into your BASICMASTER Jr. emulator.
 2. Type `CALL $4000` and press Enter to start the game.
 
 ### Controls
