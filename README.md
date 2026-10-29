@@ -26,6 +26,7 @@ The main goal is to test and evaluate how well AI can understand and write code 
 ## サンプル画像
 
 ![Mahjong](./bmjr-color-mahjong-2players/screen-shot-3.png)
+![Koikoi](./bmjr-color-koikoi/screenshot-3.png)
 ![Sapce War](./bmjr-space-war/screenshot-3.png)
 
 ---
@@ -34,6 +35,7 @@ The main goal is to test and evaluate how well AI can understand and write code 
 
 - [bmjr-block-break](./bmjr-block-break)
 - [bmjr-color-invaders](./bmjr-color-invaders)
+- [bmjr-color-koikois](./bmjr-color-koikoi)
 - [bmjr-color-mahjong-2players](./bmjr-color-mahjong-2players)
 - [bmjr-math-demo](./bmjr-math-demo)
 - [bmjr-space-war](./bmjr-space-war)
