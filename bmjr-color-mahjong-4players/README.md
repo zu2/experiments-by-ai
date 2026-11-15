@@ -5,16 +5,16 @@ An AI-generated 4-player Mahjong game (Yonin-uchi Tonnan-sen / 4-player East-Sou
 ### Screenshots
 
 **Title & Controls**  
-![Title Screen](./screen-shot-1.png)
+![Title Screen](./screenshot-1.png)
 
 **In-Game Screen**  
-![In-Game Screen](./screen-shot-2.png)
+![In-Game Screen](./screenshot-2.png)
 
 **Win / Hand Result Screen**  
-![Win Screen](./screen-shot-3.png)
+![Win Screen](./screenshot-3.png)
 
 **4-Player Scoreboard Screen**  
-![Score Screen](./screen-shot-4.png)
+![Score Screen](./screenshot-4.png)
 
 ### How to Run
 1. Load `bmjr-mj.mot` into your BASICMASTER Jr. emulator.
