@@ -17,7 +17,7 @@ An AI-generated 4-player Mahjong game (Yonin-uchi Tonnan-sen / 4-player East-Sou
 ![Score Screen](./screenshot-4.png)
 
 ### How to Run
-1. Load `bmjr-mj.mot` into your BASICMASTER Jr. emulator.
+1. Load `mj4.mot` into your BASICMASTER Jr. emulator.
 2. Type `CALL $4000` and press Enter to start the game.
 
 ### Controls
